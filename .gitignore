@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+/.idea/.gitignore
+/.idea/3d_personal_website.iml
+/.idea/modules.xml
+/.idea/vcs.xml
